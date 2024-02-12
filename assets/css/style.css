@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Lobster&display=swap');
+
+
+
+/*Inicio NavBar*/
+.bg-body-tertiary{
+    background-color:#373A3C !important;    
+}
+
+.nombreNavbar{
+    font-family: "Lobster", serif;
+    font-weight:400;
+    font-size: 2.31rem ;
+}
+
+.menuNavbar{
+    font-family: "Cabin", sans-serif;
+    font-weight:400;    
+}
+/*Fin NavBar*/
+
+/*Inicio Hero Section*/
+.header{
+    margin-top: 8rem ;
+}
+
+.container img{
+    width: 100%;
+   
+}
+
+.headerH1{
+    font-family: "Cabin", sans-serif;
+    font-weight:700;
+    font-size: 2.5rem;
+         
+   }
+
+
+.headerHr{
+    color: #000!important;
+    border-width: 0.20rem;
+    
+}
+
+ .headerP{
+    font-family: "Cabin", sans-serif;
+    font-weight:700;
+    font-size: 1.25rem;
+    /* padding-bottom: 0.90rem; */
+ }
+
+ .btn-outline-secondary{
+    font-family: "Cabin", sans-serif;
+    font-weight:400;
+    color: #373A3C !important;
+    
+ }
+
+ .tooltip {
+   font-family: "Cabin", sans-serif;
+   font-weight: 400;
+  }
+  .tooltip .tooltip-inner {
+    background-color:#373A3C;  
+  }
+
+/*Fin Hero Section*/
+
+/* Inicio Section Carrusel */
+
+.carousel-indicators button{
+width: 15px !important;
+height: 5px !important;
+border-radius: 100%;
+background-color: #000 !important;
+border-color:#000 !important ;
+}
+/* Fin de Section Carrusel */
+
+/* Inicio Section Receta */
+.receta{
+    font-family: "Cabin", sans-serif;
+    font-weight:400;
+    font-size: 1.25rem;
+    color: #373A3C !important;
+}
+
+.recetaHr{
+    width: 26%;
+    background-color: #000;
+}
+
+.listasUl{
+    list-style: none;
+    display:inline !important
+}
+
+.listaOl{
+    padding-bottom: 1.5rem ;
+}
+
+/* Fin Section Receta */
+
+/* Inicio Section Cards*/
+.cards{
+    font-family: "Cabin", sans-serif;
+    
+}
+
+.cards h2{
+    font-weight: 700;
+    font-size: 3.1rem;
+    color:#373A3C ;
+    
+}
+
+.card-body h6{
+    font-weight: 700;
+    font-size: 1.43rem;
+    color: #373A3C;
+}
+
+.card-body p{
+    color: #373A3C;
+}
+
+
+
+/* Fin Section Cards */
