@@ -21,8 +21,10 @@ sobre el botón de "Enviar por Correo" mediante el uso de los selectores por Id*
         $(this).css("color", "red");        
     });
 
-    
+    //Selector de Clase con el método toggle para  desaparecer y aparecer el contenido de las cards 
 
-
+    $(".card-title").click(function(){
+        $(".card-text").toggle();
+      });  
 
   });
