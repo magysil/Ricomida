@@ -125,7 +125,22 @@ border-color:#000 !important ;
 .card-body p{
     color: #373A3C;
 }
-
-
-
 /* Fin Section Cards */
+
+/*Inicio Section Newsletter*/ 
+.newsletter{
+    font-family: "Cabin", sans-serif;    
+    color: #fff;
+    padding-top: 4.3rem;
+    padding-bottom:7.9rem ;
+}
+.newsletter h2{
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.newsletter p{
+    font-weight: 400;
+    font-size: 1.88rem;
+}
+/*Fin Section Newsletter*/ 
