@@ -111,7 +111,7 @@ border-color:#000 !important ;
 
 .cards h2{
     font-weight: 700;
-    font-size: 3.1rem;
+    font-size: 2.5rem;
     color:#373A3C ;
     
 }
@@ -133,6 +133,7 @@ border-color:#000 !important ;
     color: #fff;
     padding-top: 4.3rem;
     padding-bottom:7.9rem ;
+    background-color:#DC3545;
 }
 .newsletter h2{
     font-weight: 700;
@@ -144,3 +145,14 @@ border-color:#000 !important ;
     font-size: 1.88rem;
 }
 /*Fin Section Newsletter*/ 
+
+/* Incio Footer */
+.footer{
+    background-color:#373A3C;
+    color: #fff;
+    font-family: "Lobster", serif;
+    font-weight:400;
+    font-size: 3.21rem;
+    
+}
+/* Fin Footer */
