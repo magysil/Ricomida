@@ -10,7 +10,7 @@ sobre el botón de "Enviar por Correo" mediante el uso de los selectores por Id*
       alert("El correo fue enviado correctamente...");
     });
 
-    /*Selectores de etiqueta y el método de jQuery
+    /*Selectores de etiqueta y el método de 
 `on` con el evento `dblclick`, para modificar el color del texto */
 
     $("p.ingredientes").on("dblclick", function(){
